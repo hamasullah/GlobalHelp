@@ -1,0 +1,2 @@
+rootProject.name='Global Help'
+include ':app'
