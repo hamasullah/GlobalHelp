@@ -33,5 +33,5 @@ public class MainActivity extends AppCompatActivity {
         Animation ani = AnimationUtils.loadAnimation(this,R.anim.transition);
         logo.startAnimation(ani);
     }
-    }
+    }// MOBEEN i love you
 
